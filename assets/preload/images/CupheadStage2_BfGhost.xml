@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CupheadStage2_BfGhost.png">
+<SubTexture name="Stay instance 10000" x="0" y="0" width="380" height="429" frameX="-8" frameY="-1" frameWidth="431" frameHeight="434" />
+<SubTexture name="Stay instance 10001" x="380" y="0" width="338" height="423" frameX="-18" frameY="0" frameWidth="431" frameHeight="434" />
+<SubTexture name="Stay instance 10002" x="0" y="429" width="318" height="428" frameX="-37" frameY="-1" frameWidth="431" frameHeight="434" />
+<SubTexture name="Stay instance 10003" x="318" y="429" width="350" height="425" frameX="-23" frameY="-1" frameWidth="431" frameHeight="434" />
+<SubTexture name="Stay instance 10004" x="0" y="857" width="317" height="409" frameX="-44" frameY="-1" frameWidth="431" frameHeight="434" />
+<SubTexture name="Stay instance 10005" x="317" y="857" width="407" height="384" frameX="-19" frameY="-1" frameWidth="431" frameHeight="434" />
+
+<SubTexture name="Fly instance 10000" x="0" y="0" width="1" height="1" frameX="-19" frameY="-1" frameWidth="431" frameHeight="434" />
+</TextureAtlas>

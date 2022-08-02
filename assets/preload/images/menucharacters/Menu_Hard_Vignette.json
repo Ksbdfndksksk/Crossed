@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Hard",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		-220,
+		-140
+	],
+	"scale": 2.8,
+	"flipX": false,
+	"image": "Menu_Hard_Vignette"
+}

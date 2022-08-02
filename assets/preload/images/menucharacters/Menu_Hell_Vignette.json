@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Hell",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		-200,
+		-140
+	],
+	"scale": 2.8,
+	"flipX": false,
+	"image": "Menu_Hell_Vignette"
+}

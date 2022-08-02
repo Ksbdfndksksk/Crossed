@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cupheah_Filter.png">
+<SubTexture name="Cupheadshit_gif instance 0000" x="0" y="0" width="320" height="180" frameX="0" frameY="0" frameWidth="1281" frameHeight="360" />
+<SubTexture name="Cupheadshit_gif instance 0001" x="320" y="0" width="320" height="180" frameX="0" frameY="0" frameWidth="1281" frameHeight="360" />
+<SubTexture name="Cupheadshit_gif instance 0002" x="0" y="180" width="320" height="180" frameX="0" frameY="0" frameWidth="1281" frameHeight="360" />
+<SubTexture name="Cupheadshit_gif instance 0003" x="320" y="180" width="320" height="180" frameX="0" frameY="0" frameWidth="1281" frameHeight="360" />
+<SubTexture name="Cupheadshit_gif instance 0004" x="0" y="360" width="320" height="180" frameX="0" frameY="0" frameWidth="1281" frameHeight="360" />
+<SubTexture name="Cupheadshit_gif instance 0005" x="320" y="360" width="320" height="180" frameX="0" frameY="0" frameWidth="1281" frameHeight="360" />
+</TextureAtlas>

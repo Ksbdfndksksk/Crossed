@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf_Bendy_3.png">
+<SubTexture name="Down Miss instance 10000" x="0" y="0" width="324" height="253" frameX="0" frameY="-7" frameWidth="324" frameHeight="267" />
+<SubTexture name="Down instance 10000" x="324" y="0" width="306" height="267" frameX="0" frameY="-21" frameWidth="307" frameHeight="332" />
+<SubTexture name="Down instance 10001" x="630" y="0" width="281" height="291" frameX="-13" frameY="-24" frameWidth="307" frameHeight="332" />
+<SubTexture name="Left Miss instance 10000" x="0" y="291" width="335" height="254" frameX="0" frameY="-7" frameWidth="335" frameHeight="267" />
+<SubTexture name="Leftt instance 10000" x="335" y="291" width="313" height="267" frameX="-19" frameY="-21" frameWidth="332" frameHeight="331" />
+<SubTexture name="Leftt instance 10001" x="648" y="291" width="300" height="291" frameX="-30" frameY="-23" frameWidth="332" frameHeight="331" />
+<SubTexture name="Right Miss instance 10000" x="0" y="582" width="312" height="253" frameX="0" frameY="-7" frameWidth="312" frameHeight="267" />
+<SubTexture name="Rightt instance 10000" x="312" y="582" width="303" height="267" frameX="0" frameY="-21" frameWidth="309" frameHeight="331" />
+<SubTexture name="Rightt instance 10001" x="615" y="582" width="289" height="291" frameX="-14" frameY="-23" frameWidth="309" frameHeight="331" />
+<SubTexture name="Run_cycle instance 10000" x="0" y="873" width="301" height="289" frameX="0" frameY="0" frameWidth="301" frameHeight="333" />
+<SubTexture name="Run_cycle instance 10001" x="0" y="873" width="301" height="289" frameX="0" frameY="0" frameWidth="301" frameHeight="333" />
+<SubTexture name="Run_cycle instance 10002" x="301" y="873" width="215" height="293" frameX="-68" frameY="-37" frameWidth="301" frameHeight="333" />
+<SubTexture name="Run_cycle instance 10003" x="516" y="873" width="295" height="292" frameX="0" frameY="-1" frameWidth="301" frameHeight="333" />
+<SubTexture name="Run_cycle instance 10004" x="516" y="873" width="295" height="292" frameX="0" frameY="-1" frameWidth="301" frameHeight="333" />
+<SubTexture name="Run_cycle instance 10005" x="301" y="873" width="215" height="293" frameX="-68" frameY="-37" frameWidth="301" frameHeight="333" />
+<SubTexture name="Up Miss instance 10000" x="0" y="1166" width="284" height="284" frameX="-5" frameY="0" frameWidth="293" frameHeight="285" />
+<SubTexture name="Up instance 10000" x="284" y="1166" width="293" height="267" frameX="0" frameY="-21" frameWidth="295" frameHeight="331" />
+<SubTexture name="Up instance 10001" x="577" y="1166" width="280" height="291" frameX="-13" frameY="-23" frameWidth="295" frameHeight="331" />
+</TextureAtlas>

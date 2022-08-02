@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BendyStage3_Back.png">
+<SubTexture name="Pain 10000" x="0" y="0" width="389" height="180" frameX="0" frameY="0" frameWidth="1555" frameHeight="720" />
+<SubTexture name="Pain 10001" x="0" y="180" width="389" height="180" frameX="0" frameY="0" frameWidth="1555" frameHeight="720" />
+<SubTexture name="Pain 10002" x="0" y="360" width="389" height="180" frameX="0" frameY="0" frameWidth="1555" frameHeight="720" />
+<SubTexture name="Pain 10003" x="0" y="720" width="389" height="180" frameX="0" frameY="0" frameWidth="1555" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf_Sans_2.png">
+<SubTexture name="0EEEE instance 10000" x="0" y="1279" width="487" height="368" frameX="0" frameY="-22" frameWidth="488" frameHeight="408" />
+<SubTexture name="0EEEE instance 10001" x="1085" y="0" width="388" height="407" frameX="-33" frameY="0" frameWidth="488" frameHeight="408" />
+<SubTexture name="0EEEE instance 10002" x="1085" y="407" width="369" height="407" frameX="-25" frameY="0" frameWidth="488" frameHeight="408" />
+<SubTexture name="0EEEE instance 10003" x="1085" y="407" width="369" height="407" frameX="-25" frameY="0" frameWidth="488" frameHeight="408" />
+<SubTexture name="0EERR instance 10000" x="487" y="1279" width="443" height="364" frameX="0" frameY="-21" frameWidth="455" frameHeight="402" />
+<SubTexture name="0EERR instance 10001" x="772" y="878" width="401" height="399" frameX="-43" frameY="-2" frameWidth="455" frameHeight="402" />
+<SubTexture name="0EERR instance 10002" x="0" y="878" width="387" height="401" frameX="-64" frameY="-1" frameWidth="455" frameHeight="402" />
+<SubTexture name="0EERR instance 10003" x="0" y="878" width="387" height="401" frameX="-64" frameY="0" frameWidth="455" frameHeight="402" />
+<SubTexture name="0EERR instance 10004" x="387" y="878" width="385" height="401" frameX="-68" frameY="-1" frameWidth="455" frameHeight="402" />
+<SubTexture name="0Idle instance 10000" x="0" y="464" width="406" height="414" frameX="-19" frameY="0" frameWidth="425" frameHeight="416" />
+<SubTexture name="0Ouu instance 10000" x="930" y="1279" width="498" height="345" frameX="0" frameY="-68" frameWidth="499" frameHeight="414" />
+<SubTexture name="0Ouu instance 10001" x="1473" y="0" width="409" height="381" frameX="-45" frameY="-8" frameWidth="499" frameHeight="414" />
+<SubTexture name="0Ouu instance 10002" x="1473" y="381" width="409" height="381" frameX="-45" frameY="-4" frameWidth="499" frameHeight="414" />
+<SubTexture name="0Ouu instance 10003" x="1473" y="381" width="409" height="381" frameX="-45" frameY="-4" frameWidth="499" frameHeight="414" />
+<SubTexture name="0Ouu instance 10004" x="1473" y="381" width="409" height="381" frameX="-45" frameY="-4" frameWidth="499" frameHeight="414" />
+<SubTexture name="0Ouu instance 10005" x="1473" y="381" width="409" height="381" frameX="-45" frameY="-4" frameWidth="499" frameHeight="414" />
+<SubTexture name="0UPPP instance 10000" x="0" y="0" width="341" height="464" frameX="-36" frameY="0" frameWidth="387" frameHeight="470" />
+<SubTexture name="0UPPP instance 10001" x="341" y="0" width="370" height="419" frameX="-16" frameY="-39" frameWidth="387" frameHeight="470" />
+<SubTexture name="0UPPP instance 10002" x="711" y="0" width="374" height="417" frameX="-12" frameY="-53" frameWidth="387" frameHeight="470" />
+<SubTexture name="0UPPP instance 10003" x="711" y="0" width="374" height="417" frameX="-12" frameY="-53" frameWidth="387" frameHeight="470" />
+<SubTexture name="0UPPP instance 10004" x="406" y="464" width="381" height="409" frameX="-6" frameY="-60" frameWidth="387" frameHeight="470" />
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SansStage3_Papyrus.png">
+<SubTexture name="Idle instance 10000" x="0" y="0" width="326" height="511" frameX="-1" frameY="-1" frameWidth="330" frameHeight="513" />
+</TextureAtlas>

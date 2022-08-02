@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cuphead Hadoken Final.png">
+<SubTexture name="DeathBlast instance 10000" x="0" y="0" width="249" height="107" frameX="0" frameY="-12" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 10001" x="0" y="107" width="226" height="130" frameX="-75" frameY="-3" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 10002" x="0" y="237" width="213" height="113" frameX="-136" frameY="-7" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 10003" x="0" y="350" width="214" height="121" frameX="-188" frameY="-3" frameWidth="1009" frameHeight="541" />
+</TextureAtlas>

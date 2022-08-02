@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sans_Normal.png">
+<SubTexture name="Down 02 instance 10000" x="0" y="0" width="491" height="477" frameX="0" frameY="-28" frameWidth="530" frameHeight="506" />
+<SubTexture name="Down 02 instance 10001" x="491" y="0" width="473" height="495" frameX="-9" frameY="-10" frameWidth="530" frameHeight="506" />
+<SubTexture name="Down 02 instance 10002" x="491" y="0" width="473" height="495" frameX="-9" frameY="-10" frameWidth="530" frameHeight="506" />
+<SubTexture name="Left 02 instance 10000" x="964" y="0" width="603" height="505" frameX="0" frameY="-16" frameWidth="603" frameHeight="521" />
+<SubTexture name="Left 02 instance 10001" x="0" y="505" width="557" height="521" frameX="-28" frameY="0" frameWidth="603" frameHeight="521" />
+<SubTexture name="Left 02 instance 10002" x="0" y="505" width="557" height="521" frameX="-28" frameY="0" frameWidth="603" frameHeight="521" />
+<SubTexture name="Right 02 instance 10000" x="557" y="505" width="471" height="514" frameX="-22" frameY="-5" frameWidth="520" frameHeight="520" />
+<SubTexture name="Right 02 instance 10001" x="1028" y="505" width="459" height="519" frameX="-12" frameY="0" frameWidth="520" frameHeight="520" />
+<SubTexture name="Right 02 instance 10002" x="1028" y="505" width="459" height="519" frameX="-12" frameY="0" frameWidth="520" frameHeight="520" />
+<SubTexture name="Sans FNF instance 10000" x="0" y="1026" width="492" height="520" frameX="-26" frameY="-1" frameWidth="526" frameHeight="521" />
+<SubTexture name="Up 02 instance 10000" x="492" y="1026" width="472" height="548" frameX="-20" frameY="-1" frameWidth="573" frameHeight="550" />
+<SubTexture name="Up 02 instance 10001" x="964" y="1026" width="496" height="525" frameX="-7" frameY="-24" frameWidth="573" frameHeight="550" />
+<SubTexture name="Up 02 instance 10002" x="964" y="1026" width="496" height="525" frameX="-7" frameY="-23" frameWidth="573" frameHeight="550" />
+</TextureAtlas>

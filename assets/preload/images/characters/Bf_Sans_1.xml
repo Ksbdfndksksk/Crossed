@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf_Sans_1.png">
+<SubTexture name="0BF attack instance 10000" x="0" y="1311" width="751" height="399" frameX="-764" frameY="-1" frameWidth="1551" frameHeight="400" />
+<SubTexture name="0BF attack instance 10001" x="1921" y="0" width="408" height="373" frameX="-1143" frameY="-24" frameWidth="1551" frameHeight="400" />
+<SubTexture name="BF NOTE DOWN instance 10000" x="1921" y="1107" width="395" height="348" frameX="0" frameY="-26" frameWidth="395" frameHeight="377" />
+<SubTexture name="BF NOTE DOWN instance 10001" x="1921" y="743" width="375" height="364" frameX="-7" frameY="-12" frameWidth="395" frameHeight="377" />
+<SubTexture name="BF NOTE DOWN instance 10002" x="1921" y="373" width="377" height="370" frameX="-5" frameY="-6" frameWidth="395" frameHeight="377" />
+<SubTexture name="BF NOTE LEFT instance 10000" x="751" y="1311" width="442" height="389" frameX="0" frameY="-15" frameWidth="442" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT instance 10001" x="1534" y="0" width="387" height="406" frameX="-34" frameY="0" frameWidth="442" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT instance 10002" x="1078" y="903" width="374" height="407" frameX="-50" frameY="0" frameWidth="442" frameHeight="407" />
+<SubTexture name="BF NOTE RIGHT instance 10000" x="1193" y="1311" width="459" height="389" frameX="-17" frameY="-20" frameWidth="477" frameHeight="412" />
+<SubTexture name="BF NOTE RIGHT instance 10001" x="1127" y="0" width="407" height="411" frameX="-27" frameY="0" frameWidth="477" frameHeight="412" />
+<SubTexture name="BF NOTE RIGHT instance 10002" x="0" y="903" width="396" height="408" frameX="-12" frameY="-3" frameWidth="477" frameHeight="412" />
+<SubTexture name="BF NOTE UP instance 10000" x="0" y="0" width="355" height="473" frameX="-18" frameY="0" frameWidth="394" frameHeight="474" />
+<SubTexture name="BF NOTE UP instance 10001" x="355" y="0" width="372" height="443" frameX="-10" frameY="-26" frameWidth="394" frameHeight="474" />
+<SubTexture name="BF NOTE UP instance 10002" x="725" y="473" width="386" height="428" frameX="-4" frameY="-40" frameWidth="394" frameHeight="474" />
+<SubTexture name="BF idle dance instance 10000" x="1127" y="411" width="407" height="409" frameX="-17" frameY="0" frameWidth="430" frameHeight="409" />
+<SubTexture name="D-Miss instance 10000" x="1534" y="406" width="378" height="388" frameX="0" frameY="0" frameWidth="378" frameHeight="461" />
+<SubTexture name="L-Miss instance 10000" x="727" y="0" width="400" height="432" frameX="-31" frameY="0" frameWidth="501" frameHeight="433" />
+<SubTexture name="OuchBonesinmyAss instance 10000" x="396" y="903" width="341" height="408" frameX="-157" frameY="-1" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10001" x="396" y="903" width="341" height="408" frameX="0" frameY="-1" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10002" x="396" y="903" width="341" height="408" frameX="-71" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10003" x="396" y="903" width="341" height="408" frameX="-21" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10004" x="396" y="903" width="341" height="408" frameX="-45" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10005" x="396" y="903" width="341" height="408" frameX="-54" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10006" x="737" y="903" width="341" height="408" frameX="-37" frameY="-1" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10007" x="737" y="903" width="341" height="408" frameX="-37" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10008" x="737" y="903" width="341" height="408" frameX="-37" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10009" x="396" y="903" width="341" height="408" frameX="-43" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10010" x="396" y="903" width="341" height="408" frameX="-43" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10011" x="396" y="903" width="341" height="408" frameX="-43" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10012" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10013" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10014" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10015" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10016" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10017" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10018" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10019" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10020" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10021" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10022" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10023" x="737" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10024" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10025" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10026" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="OuchBonesinmyAss instance 10027" x="396" y="903" width="341" height="408" frameX="-40" frameY="0" frameWidth="498" frameHeight="409" />
+<SubTexture name="R-Miss instance 10000" x="0" y="473" width="370" height="430" frameX="-35" frameY="0" frameWidth="458" frameHeight="430" />
+<SubTexture name="U-Miss instance 10000" x="370" y="473" width="355" height="429" frameX="0" frameY="-92" frameWidth="356" frameHeight="544" />
+</TextureAtlas>

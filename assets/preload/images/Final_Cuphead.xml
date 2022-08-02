@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Final_Cuphead.png">
+<SubTexture name="Idle instance 10000" x="0" y="0" width="324" height="504" frameX="-1" frameY="-25" frameWidth="336" frameHeight="533" />
+</TextureAtlas>

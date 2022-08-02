@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SansStage3_Gf.png">
+<SubTexture name="GF Dancing Beat0000" x="779" y="694" width="779" height="680" frameX="-17" frameY="-14" frameWidth="817" frameHeight="715" />
+<SubTexture name="GF Dancing Beat0001" x="0" y="0" width="779" height="694" frameX="-17" frameY="0" frameWidth="817" frameHeight="715" />
+<SubTexture name="GF Dancing Beat0002" x="0" y="694" width="779" height="682" frameX="-17" frameY="-12" frameWidth="817" frameHeight="715" />
+<SubTexture name="GF Dancing Beat0003" x="779" y="0" width="779" height="689" frameX="-17" frameY="-5" frameWidth="817" frameHeight="715" />
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sans_Attack.png">
+<SubTexture name="DownUT instance 10000" x="0" y="0" width="460" height="487" frameX="0" frameY="-33" frameWidth="463" frameHeight="520" />
+<SubTexture name="DownUT instance 10001" x="0" y="0" width="460" height="487" frameX="0" frameY="-33" frameWidth="463" frameHeight="520" />
+<SubTexture name="DownUT instance 10002" x="460" y="0" width="441" height="513" frameX="-9" frameY="-7" frameWidth="463" frameHeight="520" />
+<SubTexture name="DownUT instance 10003" x="460" y="0" width="441" height="513" frameX="-9" frameY="-7" frameWidth="463" frameHeight="520" />
+<SubTexture name="EReree ee instance 10000" x="901" y="0" width="438" height="518" frameX="-8" frameY="-2" frameWidth="460" frameHeight="520" />
+<SubTexture name="LeftUT instance 10000" x="0" y="518" width="472" height="520" frameX="0" frameY="-1" frameWidth="513" frameHeight="522" />
+<SubTexture name="LeftUT instance 10001" x="472" y="518" width="433" height="520" frameX="-43" frameY="-1" frameWidth="513" frameHeight="522" />
+<SubTexture name="LeftUT instance 10002" x="472" y="518" width="433" height="520" frameX="-43" frameY="-1" frameWidth="513" frameHeight="522" />
+<SubTexture name="LeftUT instance 10003" x="905" y="518" width="421" height="521" frameX="-54" frameY="0" frameWidth="513" frameHeight="522" />
+<SubTexture name="LeftUT instance 10004" x="905" y="518" width="421" height="521" frameX="-54" frameY="0" frameWidth="513" frameHeight="522" />
+<SubTexture name="RightUT instance 10000" x="0" y="1039" width="484" height="519" frameX="-24" frameY="0" frameWidth="508" frameHeight="520" />
+<SubTexture name="RightUT instance 10001" x="484" y="1039" width="446" height="519" frameX="-32" frameY="0" frameWidth="508" frameHeight="520" />
+<SubTexture name="RightUT instance 10002" x="484" y="1039" width="446" height="519" frameX="-32" frameY="0" frameWidth="508" frameHeight="520" />
+<SubTexture name="RightUT instance 10003" x="930" y="1039" width="439" height="519" frameX="-18" frameY="0" frameWidth="508" frameHeight="520" />
+<SubTexture name="UpUT instance 10000" x="0" y="1558" width="392" height="548" frameX="-23" frameY="0" frameWidth="454" frameHeight="549" />
+<SubTexture name="UpUT instance 10001" x="392" y="1558" width="426" height="522" frameX="-7" frameY="-26" frameWidth="454" frameHeight="549" />
+<SubTexture name="UpUT instance 10002" x="392" y="1558" width="426" height="522" frameX="-7" frameY="-26" frameWidth="454" frameHeight="549" />
+<SubTexture name="UpUT instance 10003" x="818" y="1558" width="424" height="522" frameX="-7" frameY="-26" frameWidth="454" frameHeight="549" />
+</TextureAtlas>

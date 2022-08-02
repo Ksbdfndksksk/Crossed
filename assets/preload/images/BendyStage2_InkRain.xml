@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BendyStage2_InkRain.png">
+<SubTexture name="erteyd instance 0000" x="0" y="0" width="433" height="270" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+<SubTexture name="erteyd instance 0001" x="0" y="270" width="433" height="270" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+<SubTexture name="erteyd instance 0002" x="0" y="540" width="433" height="270" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+</TextureAtlas>

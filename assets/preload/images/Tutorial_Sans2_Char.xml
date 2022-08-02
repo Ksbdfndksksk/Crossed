@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tutorial_Sans2_Char.png">
+<SubTexture name="Tutorial Sans2 Idle Instance0000" x="0" y="0" width="491" height="519" frameX="-22" frameY="-1" frameWidth="526" frameHeight="521" />
+</TextureAtlas>

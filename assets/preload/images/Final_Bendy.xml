@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Final_Bendy.png">
+<SubTexture name="DeathBendy instance 10000" x="0" y="0" width="615" height="580" frameX="-53" frameY="-67" frameWidth="708" frameHeight="652" />
+</TextureAtlas>

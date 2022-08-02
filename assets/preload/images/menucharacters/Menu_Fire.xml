@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Fire.png">
+<SubTexture name="BurnInHell 10000" x="0" y="0" width="1277" height="431" frameX="-6" frameY="-60" frameWidth="1297" frameHeight="685" />
+<SubTexture name="BurnInHell 10001" x="0" y="0" width="1277" height="431" frameX="-6" frameY="-60" frameWidth="1297" frameHeight="685" />
+<SubTexture name="BurnInHell 10002" x="0" y="431" width="1276" height="455" frameX="-8" frameY="-26" frameWidth="1297" frameHeight="685" />
+<SubTexture name="BurnInHell 10003" x="0" y="431" width="1276" height="455" frameX="-8" frameY="-26" frameWidth="1297" frameHeight="685" />
+<SubTexture name="BurnInHell 10004" x="0" y="886" width="1285" height="473" frameX="-4" frameY="-60" frameWidth="1297" frameHeight="685" />
+<SubTexture name="BurnInHell 10005" x="0" y="886" width="1285" height="473" frameX="-4" frameY="-60" frameWidth="1297" frameHeight="685" />
+<SubTexture name="BurnInHell 10006" x="0" y="1359" width="1280" height="462" frameX="-6" frameY="-32" frameWidth="1297" frameHeight="685" />
+<SubTexture name="BurnInHell 10007" x="0" y="1359" width="1280" height="462" frameX="-6" frameY="-32" frameWidth="1297" frameHeight="685" />
+</TextureAtlas>

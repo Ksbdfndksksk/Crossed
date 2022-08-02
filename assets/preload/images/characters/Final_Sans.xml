@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Final_Sans.png">
+<SubTexture name="DOWNN instance 10000" x="0" y="0" width="543" height="748" frameX="-56" frameY="-167" frameWidth="604" frameHeight="915" />
+<SubTexture name="DOWNN instance 10001" x="543" y="0" width="519" height="781" frameX="-68" frameY="-134" frameWidth="604" frameHeight="915" />
+<SubTexture name="Leftt instance 10000" x="1062" y="0" width="735" height="694" frameX="-111" frameY="-150" frameWidth="855" frameHeight="848" />
+<SubTexture name="Leftt instance 10001" x="0" y="781" width="549" height="709" frameX="-117" frameY="-133" frameWidth="855" frameHeight="848" />
+<SubTexture name="Nightmare SANS Idle instance 10000" x="549" y="781" width="489" height="810" frameX="-77" frameY="-118" frameWidth="592" frameHeight="928" />
+<SubTexture name="Rightt instance 10000" x="1038" y="781" width="640" height="809" frameX="-99" frameY="-27" frameWidth="805" frameHeight="841" />
+<SubTexture name="Rightt instance 10001" x="0" y="1591" width="592" height="808" frameX="-142" frameY="-28" frameWidth="805" frameHeight="841" />
+<SubTexture name="UPP instance 10000" x="592" y="1591" width="425" height="1003" frameX="-24" frameY="0" frameWidth="490" frameHeight="1008" />
+<SubTexture name="UPP instance 10001" x="1017" y="1591" width="480" height="864" frameX="0" frameY="-120" frameWidth="490" frameHeight="1008" />
+</TextureAtlas>

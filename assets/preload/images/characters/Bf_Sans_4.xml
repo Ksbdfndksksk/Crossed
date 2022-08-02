@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf_Sans_4.png">
+<SubTexture name="BF NOTE DOWN MISS guitar0000" x="0" y="0" width="401" height="391" frameX="-115" frameY="0" frameWidth="626" frameHeight="563" />
+<SubTexture name="BF NOTE DOWN guitar0000" x="401" y="0" width="401" height="357" frameX="-115" frameY="-5" frameWidth="626" frameHeight="534" />
+<SubTexture name="BF NOTE DOWN guitar0001" x="802" y="0" width="397" height="361" frameX="-119" frameY="0" frameWidth="626" frameHeight="534" />
+<SubTexture name="BF NOTE LEFT MISS guitar0000" x="0" y="391" width="368" height="419" frameX="-92" frameY="-12" frameWidth="560" frameHeight="542" />
+<SubTexture name="BF NOTE LEFT guitar0000" x="368" y="391" width="370" height="406" frameX="-88" frameY="0" frameWidth="562" frameHeight="514" />
+<SubTexture name="BF NOTE LEFT guitar0001" x="738" y="391" width="368" height="404" frameX="-92" frameY="-2" frameWidth="562" frameHeight="514" />
+<SubTexture name="BF NOTE RIGHT MISS guitar0000" x="0" y="810" width="397" height="433" frameX="-85" frameY="0" frameWidth="580" frameHeight="564" />
+<SubTexture name="BF NOTE RIGHT guitar0000" x="397" y="810" width="408" height="405" frameX="-93" frameY="-2" frameWidth="580" frameHeight="535" />
+<SubTexture name="BF NOTE RIGHT guitar0001" x="805" y="810" width="407" height="407" frameX="-93" frameY="-2" frameWidth="580" frameHeight="535" />
+<SubTexture name="BF NOTE UP MISS guitar0000" x="0" y="1243" width="376" height="422" frameX="-143" frameY="-51" frameWidth="674" frameHeight="637" />
+<SubTexture name="BF NOTE UP guitar0000" x="376" y="1243" width="369" height="446" frameX="-152" frameY="-1" frameWidth="674" frameHeight="606" />
+<SubTexture name="BF NOTE UP guitar0001" x="745" y="1243" width="373" height="441" frameX="-150" frameY="-6" frameWidth="674" frameHeight="606" />
+<SubTexture name="BF idle dance guitar0000" x="0" y="1689" width="368" height="411" frameX="-16" frameY="-1" frameWidth="532" frameHeight="490" />
+</TextureAtlas>

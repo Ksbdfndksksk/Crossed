@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Final_Bendy.png">
+<SubTexture name="DeathBendy instance 10000" x="667" y="2457" width="615" height="580" frameX="-53" frameY="-67" frameWidth="708" frameHeight="652" />
+<SubTexture name="Down instance 10000" x="0" y="0" width="655" height="503" frameX="-15" frameY="-30" frameWidth="685" frameHeight="546" />
+<SubTexture name="Down instance 10001" x="655" y="0" width="629" height="479" frameX="-20" frameY="-58" frameWidth="685" frameHeight="546" />
+<SubTexture name="Down instance 10002" x="0" y="503" width="608" height="519" frameX="-19" frameY="-20" frameWidth="685" frameHeight="546" />
+<SubTexture name="Right instance 10000" x="608" y="503" width="952" height="526" frameX="-77" frameY="-137" frameWidth="1082" frameHeight="683" />
+<SubTexture name="Right instance 10001" x="0" y="1029" width="926" height="661" frameX="-152" frameY="-13" frameWidth="1082" frameHeight="683" />
+<SubTexture name="Left instance 10000" x="926" y="1029" width="1066" height="469" frameX="0" frameY="-181" frameWidth="1087" frameHeight="662" />
+<SubTexture name="Left instance 10001" x="0" y="1690" width="729" height="639" frameX="-241" frameY="-14" frameWidth="1087" frameHeight="662" />
+<SubTexture name="Up instance 10000" x="729" y="1690" width="650" height="767" frameX="0" frameY="-35" frameWidth="697" frameHeight="813" />
+<SubTexture name="Up instance 10001" x="0" y="2457" width="667" height="731" frameX="-11" frameY="-58" frameWidth="697" frameHeight="813" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tutorial_PotatoPc_Char.png">
+<SubTexture name="BF idle dance0000" x="0" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+<SubTexture name="BF idle dance0001" x="408" y="0" width="408" height="412" frameX="-2" frameY="0" frameWidth="411" frameHeight="412" />
+</TextureAtlas>

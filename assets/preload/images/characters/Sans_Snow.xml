@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sans_Snow.png">
+<SubTexture name="Donw instance 10000" x="0" y="0" width="513" height="483" frameX="0" frameY="-34" frameWidth="514" frameHeight="518" />
+<SubTexture name="Donw instance 10001" x="513" y="0" width="488" height="503" frameX="-13" frameY="-15" frameWidth="515" frameHeight="518" />
+<SubTexture name="Donw instance 10002" x="513" y="0" width="488" height="503" frameX="-12" frameY="-14" frameWidth="515" frameHeight="518" />
+<SubTexture name="Lefft instance 10000" x="1001" y="0" width="480" height="504" frameX="-1" frameY="-12" frameWidth="518" frameHeight="516" />
+<SubTexture name="Lefft instance 10001" x="0" y="504" width="451" height="512" frameX="-31" frameY="-4" frameWidth="518" frameHeight="516" />
+<SubTexture name="Lefft instance 10002" x="0" y="504" width="451" height="512" frameX="-31" frameY="-4" frameWidth="518" frameHeight="516" />
+<SubTexture name="S-Right instance 10000" x="451" y="504" width="486" height="517" frameX="-16" frameY="-9" frameWidth="502" frameHeight="526" />
+<SubTexture name="S-Right instance 10001" x="937" y="504" width="476" height="523" frameX="-10" frameY="-3" frameWidth="502" frameHeight="526" />
+<SubTexture name="S-Right instance 10002" x="937" y="504" width="476" height="523" frameX="-10" frameY="-2" frameWidth="502" frameHeight="526" />
+<SubTexture name="Sans FNF instance 10000" x="0" y="1027" width="492" height="520" frameX="-22" frameY="-1" frameWidth="522" frameHeight="521" />
+<SubTexture name="Upo instance 10000" x="492" y="1027" width="433" height="548" frameX="-7" frameY="0" frameWidth="481" frameHeight="549" />
+<SubTexture name="Upo instance 10001" x="925" y="1027" width="446" height="527" frameX="0" frameY="-21" frameWidth="481" frameHeight="549" />
+<SubTexture name="Upo instance 10002" x="925" y="1027" width="446" height="527" frameX="0" frameY="-21" frameWidth="481" frameHeight="549" />
+</TextureAtlas>

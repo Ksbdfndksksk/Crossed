@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf_Bendy_1.png">
+<SubTexture name="BF NOTE DOWN copy 2 instance 10000" x="0" y="0" width="394" height="349" frameX="0" frameY="-26" frameWidth="394" frameHeight="377" />
+<SubTexture name="BF NOTE DOWN copy 2 instance 10001" x="394" y="0" width="374" height="365" frameX="-8" frameY="-12" frameWidth="394" frameHeight="377" />
+<SubTexture name="BF NOTE DOWN copy 2 instance 10002" x="394" y="0" width="374" height="365" frameX="-8" frameY="-11" frameWidth="394" frameHeight="377" />
+<SubTexture name="BF NOTE DOWN copy 2 instance 10003" x="768" y="0" width="376" height="369" frameX="-6" frameY="-8" frameWidth="394" frameHeight="377" />
+<SubTexture name="BF NOTE LEFT copy 2 instance 10000" x="1144" y="0" width="441" height="389" frameX="0" frameY="-16" frameWidth="441" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT copy 2 instance 10001" x="0" y="389" width="386" height="406" frameX="-34" frameY="-1" frameWidth="441" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT copy 2 instance 10002" x="386" y="389" width="386" height="406" frameX="-34" frameY="-1" frameWidth="441" frameHeight="407" />
+<SubTexture name="BF NOTE LEFT copy 2 instance 10003" x="772" y="389" width="377" height="406" frameX="-43" frameY="-1" frameWidth="441" frameHeight="407" />
+<SubTexture name="BF NOTE RIGHT copy 2 instance 10000" x="1149" y="389" width="459" height="389" frameX="-17" frameY="-20" frameWidth="476" frameHeight="411" />
+<SubTexture name="BF NOTE RIGHT copy 2 instance 10001" x="0" y="795" width="406" height="411" frameX="-28" frameY="0" frameWidth="476" frameHeight="411" />
+<SubTexture name="BF NOTE RIGHT copy 2 instance 10002" x="406" y="795" width="408" height="411" frameX="-26" frameY="0" frameWidth="476" frameHeight="411" />
+<SubTexture name="BF NOTE RIGHT copy 2 instance 10003" x="814" y="795" width="398" height="410" frameX="-21" frameY="-1" frameWidth="476" frameHeight="411" />
+<SubTexture name="BF NOTE UP copy 2 instance 10000" x="1212" y="795" width="354" height="473" frameX="-18" frameY="-1" frameWidth="393" frameHeight="474" />
+<SubTexture name="BF NOTE UP copy 2 instance 10001" x="0" y="1268" width="371" height="443" frameX="-10" frameY="-27" frameWidth="393" frameHeight="474" />
+<SubTexture name="BF NOTE UP copy 2 instance 10002" x="0" y="1268" width="371" height="443" frameX="-10" frameY="-27" frameWidth="393" frameHeight="474" />
+<SubTexture name="BF NOTE UP copy 2 instance 10003" x="371" y="1268" width="379" height="435" frameX="-6" frameY="-35" frameWidth="393" frameHeight="474" />
+<SubTexture name="BF idle dance copy 2 instance 10000" x="750" y="1268" width="404" height="411" frameX="0" frameY="0" frameWidth="408" frameHeight="411" />
+<SubTexture name="BF idle dance copy 2 instance 10001" x="1154" y="1268" width="402" height="411" frameX="-2" frameY="0" frameWidth="408" frameHeight="411" />
+<SubTexture name="BF idle dance copy 2 instance 10002" x="0" y="1711" width="404" height="411" frameX="0" frameY="0" frameWidth="408" frameHeight="411" />
+<SubTexture name="BF idle dance copy 2 instance 10003" x="404" y="1711" width="402" height="411" frameX="-2" frameY="0" frameWidth="408" frameHeight="411" />
+<SubTexture name="Ouch instance 10000" x="806" y="1711" width="340" height="409" frameX="-27" frameY="-159" frameWidth="483" frameHeight="568" />
+<SubTexture name="Ouch instance 10001" x="1146" y="1711" width="344" height="409" frameX="-89" frameY="-159" frameWidth="483" frameHeight="568" />
+</TextureAtlas>

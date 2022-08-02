@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tutorial_Bendy_Char.png">
+<SubTexture name="Tutorial Bendy Idle Instance0000" x="0" y="0" width="419" height="547" frameX="-3" frameY="0" frameWidth="422" frameHeight="547" />
+</TextureAtlas>
