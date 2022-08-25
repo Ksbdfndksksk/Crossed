@@ -11,11 +11,11 @@ using StringTools;
 
 class Achievements {
 	public static var achievementsStuff:Array<Dynamic> = [ //Name, Description, Achievement save tag, Hidden achievement
-		["Freaky on a Friday Night",	"Play on a Friday... Night.",						'friday_night_play',	 true],
-		["She Calls Me Daddy Too",		"Beat Week 1 on Hard with no Misses.",				'week1_nomiss',			false],
-		["No More Tricks",				"Beat Week 2 on Hard with no Misses.",				'week2_nomiss',			false],
-		["Call Me The Hitman",			"Beat Week 3 on Hard with no Misses.",				'week3_nomiss',			false],
-		["Lady Killer",					"Beat Week 4 on Hard with no Misses.",				'week4_nomiss',			false],
+		["Freaky em uma noite de sexta-feira",	"Play on a Friday... Night.",						'friday_night_play',	 true],
+		["Ela também me chama de papai",		"Beat Week 1 on Hard with no Misses.",				'week1_nomiss',			false],
+		["Não há mais truques",				"Beat Week 2 on Hard with no Misses.",				'week2_nomiss',			false],
+		["Me chame de assassino",			"Beat Week 3 on Hard with no Misses.",				'week3_nomiss',			false],
+		["Dama Assassina",					"Beat Week 4 on Hard with no Misses.",				'week4_nomiss',			false],
 		["Missless Christmas",			"Beat Week 5 on Hard with no Misses.",				'week5_nomiss',			false],
 		["Highscore!!",					"Beat Week 6 on Hard with no Misses.",				'week6_nomiss',			false],
 		["God Effing Damn It!",			"Beat Week 7 on Hard with no Misses.",				'week7_nomiss',			false],
